@@ -5,6 +5,6 @@ Create a 3d textured mesh from drillhole header, survey and any image
  - Export result a vtk mesh (.vtk)
  - Built in renderer using pyvista
 # screenshots
-![screenshot1]./assets/screenshot1.png?raw=true  
+![screenshot1](./assets/screenshot1.png?raw=true)  
   
-![screenshot2]./assets/screenshot2.png?raw=true
+![screenshot2](./assets/screenshot2.png?raw=true)
