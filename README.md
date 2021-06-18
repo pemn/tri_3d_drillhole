@@ -16,4 +16,4 @@ Create a 3d textured mesh from drillhole header, survey and any image
 ### pyvista built in renderer
 ![screenshot2](./assets/screenshot2.png?raw=true)
 ### Windows 3D Viewer
-![screenshot3](./assets/screenshot2.png?raw=true)
+![screenshot3](./assets/screenshot3.png?raw=true)
